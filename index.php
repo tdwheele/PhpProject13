@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "Prog02";
+        echo "Prog02 Assignment";
         ?>
     </body>
 </html>
